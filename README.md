@@ -48,7 +48,7 @@ pip install pygame
 
 ## Credits
 
-This project was created by [Jorge Garcia].
+This project was created by Jorge Garcia.
 
 ## License
 
