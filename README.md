@@ -1,5 +1,8 @@
 # Sudoku Game
 
+<img width="615" alt="image" src="https://github.com/Poiixen/Sudoku/assets/120151400/3d4d0116-15a3-4b3c-b472-86e72d8ca663">
+
+
 Welcome to the Sudoku Game built with Python and Pygame!
 
 ## Introduction
